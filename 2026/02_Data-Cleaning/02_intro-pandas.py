@@ -6,6 +6,7 @@ import numpy as np
 ##### GENERATE EMISSIONS DATA #####
 ###################################
 
+
 np.random.seed(42)  # for reproducibility
 years = list(range(2017, 2025))
 
